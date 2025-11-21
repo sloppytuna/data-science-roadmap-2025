@@ -1,4 +1,4 @@
-# Phase 1 – SQL and Relational Design
+### Phase 1 (4–6 weeks) – SQL & relational fundamentals
 
 **Concepts**
 
@@ -10,12 +10,12 @@
 **Suggested courses (pick one main track)**
 
 * **Track A (Postgres-first, very solid)**:
-  *PostgreSQL for Everybody* Specialization (UMich / Coursera) – covers Postgres, SQL, and basic DB design; consistently recommended for serious learners.
+  *PostgreSQL for Everybody* Specialization (UMich / Coursera) – covers Postgres, SQL, and basic DB design; consistently recommended for serious learners. ([Coursera][2])
 
 * **Track B (DS-flavored)**:
-  *SQL Basics for Data Science* Specialization (Coursera) – SQL framed explicitly for data science workloads.
+  *SQL Basics for Data Science* Specialization (Coursera) – SQL framed explicitly for data science workloads. ([Mimo][3])
 
-* Supplement with an interactive course if you like: DataCamp’s **“Introduction to SQL”** and follow-up tracks, which are widely used for hands-on SQL practice.
+* Supplement with an interactive course if you like: DataCamp’s **“Introduction to SQL”** and follow-up tracks, which are widely used for hands-on SQL practice. ([DataCamp][4])
 
 **Project 1: “Relational Airtable”**
 
